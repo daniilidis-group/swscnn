@@ -9,6 +9,9 @@ Learning equivariant representations is a promising way to reduce sample and mod
 ** Spherical vector field from image
  [[file:animations/dense_vector.gif]]
 
+* Datasets
+The data used for the spherical MNIST experiments is available [[https://drive.google.com/file/d/1h7JwdjWalXZFoXCU8Ez1rLscWih8PcZ7][here]]. It was created using [[https://github.com/jonkhler/s2cnn/blob/f79f09bcd11704ca10d65f2020b9830c4d254bd4/examples/mnist/gendata.py][this file]] from [[https://github.com/jonkhler/s2cnn][jonkhler/s2cnn]].
+
 * Demo
 
 Coming soon!
