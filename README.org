@@ -14,7 +14,7 @@ The data used for the spherical MNIST experiments is available [[https://drive.g
 
 * Demo
 
-Coming soon!
+A JAX implementation that reproduces the results of this paper can be found at [[https://github.com/google-research/google-research/tree/master/spin_spherical_cnns][this Google Research repo]]. 
 
 * Reference
 Carlos Esteves, Ameesh Makadia, Kostas Daniilidis.
